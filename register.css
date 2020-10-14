@@ -16,14 +16,16 @@ body{
     text-align: center;
     background-color: rgb(48, 198, 248);
     border: solid rgb(80, 78, 78);
+    border-width: 1px;
 }
 .second_input{
     padding: 0px;
     height: 30px;
-    width: 200px;
-    margin-left: -90px;
+    width: 400px;
+    margin-left: -5px;
     text-align: center;
     border: solid rgb(80, 78, 78);
+    border-width: 1px;
 }
 .ref_1{
     border: 20px;
@@ -36,6 +38,118 @@ body{
     justify-content: space-between;
     margin-top: 40px;
 }
-.smartup_image{
-    font-size: 60px;
+.links{
+    height: 70px;
+    margin-top: 40px;
 }
+.home{
+    border-right: solid black;
+    padding-right: 20px;
+    border-right-width: 1px;
+}
+.products{
+    
+    border-right: solid black;
+    padding-right: 20px;
+    border-right-width: 1px;
+}
+.company{
+    
+    border-right: solid black;
+    padding-right: 20px;
+    border-right-width: 1px;
+}
+.second_container{
+    text-align: center;
+}
+.third_container{
+    text-align: center;
+    margin-top: 20px;
+}
+.third_input{
+    width: 300px;
+    border: solid black;
+    border-width: 1px;
+    height: 30px;
+}
+.fourth_input{
+    width: 300px;
+    margin-left: 20px;
+    border: solid black;
+    border-width: 1px;
+    height: 30px;
+}
+.fifth_input{
+    border: solid black;
+    border-width: 1px;
+    width: 574px;
+    height: 30px;
+    margin-left: -6px;
+}
+.fourth_container{
+    text-align: center;
+    margin-top: 20px;
+}
+.fifth_container{
+    text-align: center;
+    margin-top: 20px;
+}
+.sixth_input{
+    width: 624px;
+    border: solid black;
+    border-width: 1px;
+    height: 30px;
+}
+.check{
+    display: flex;
+}
+.main_check{
+    display: flex;
+    /* justify-content: space-evenly;
+    position: relative; */
+}
+.chk{
+    display: flex;
+    justify-content: space-evenly;
+}
+.frst_chk{
+    display: flex;
+    justify-content:space-evenly ;
+}
+#date{
+    border: solid black;
+    border-width: 1px;
+    width: 130px;
+    height: 30px;
+}
+.sixth_container{
+    text-align: center;
+    margin-top: 20px;
+}
+.address{
+    width: 624px;
+    border: solid black;
+    border-width: 1px;
+    height: 30px;
+}
+.button{
+    margin-left: 953px;
+    margin-top: 20px;
+}
+#drop{
+    height: 33px;
+    border: solid black;
+    border-width: 1px;
+}
+#chk_1{
+    height: 33px;
+    border: solid black;
+    border-width: 1px;
+}
+
+  
+
+
+
+
+
